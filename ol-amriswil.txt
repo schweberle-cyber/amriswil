@@ -1,12 +1,12 @@
 ---------------------------------------------------------------------
-49.OberthurgauerOL2025                            Mi 07.01.2026 19:54
+49.OberthurgauerOL2025                            Mi 07.01.2026 20:29
 Vorläufiges Ergebnis
 --------------OE12 © Stephan Krämer SportSoftware 2025---------------
 
 	Pl 	Stnr 	Name 	Jg 	Verein 	Zeit 
 
 
-H10  (4/8)       Stand von: 19:54           
+H10  (4/8)       Stand von: 20:29           
 
 	1 	 	Theo Manser 	15 	OLG St. Gallen/App. 	10:34 
 	2 	 	Tiemo Winteler 	18 	thurgorienta 	16:26 
@@ -15,7 +15,7 @@ H10  (4/8)       Stand von: 19:54
 
 
 
-H12  (6/6)       Stand von: 19:54           
+H12  (6/6)       Stand von: 20:29           
 
 	1 	 	Tobias Maier 	14 	OL Regio Wil 	22:32 
 	2 	 	Jari Bächi 	13 	thurgorienta 	23:22 
@@ -26,7 +26,7 @@ H12  (6/6)       Stand von: 19:54
 
 
 
-H14  (11/11)     Stand von: 19:54           
+H14  (11/11)     Stand von: 20:29           
 
 	1 	 	Jonathan Latscha 	12 	thurgorienta 	26:48 
 	2 	 	Tim Wey 	12 	OL Regio Wil 	29:12 
@@ -43,7 +43,7 @@ H14  (11/11)     Stand von: 19:54
 
 
 
-H16  (4/4)       Stand von: 19:54           
+H16  (4/4)       Stand von: 20:29           
 
 	1 	 	Timo Treier 	10 	bussola ok 	35:33 
 	2 	 	Yannis Bähler 	10 	thurgorienta 	38:28 
@@ -52,7 +52,7 @@ H16  (4/4)       Stand von: 19:54
 
 
 
-HAL  (6/12)      Stand von: 19:54           
+HAL  (6/12)      Stand von: 20:29           
 
 	1 	 	Christian Mohn 	74 	OLC Kapreolo 	53:58 
 	2 	 	Stefan Jünger 	68 	OL Amriswil 	1:07:24 
@@ -64,7 +64,7 @@ HAL  (6/12)      Stand von: 19:54
 
 
 
-HAM  (8/8)       Stand von: 19:54           
+HAM  (8/8)       Stand von: 20:29           
 
 	1 	 	Elias Ammann 	04 	OL Regio Wil 	38:15 
 	2 	 	Matthias Büchi 	97 	OLC Winterthur 	44:09 
@@ -78,7 +78,7 @@ HAM  (8/8)       Stand von: 19:54
 
 
 
-HAK  (10/10)     Stand von: 19:54           
+HAK  (10/10)     Stand von: 20:29           
 
 	1 	 	Philipp Spring 	84 	thurgorienta 	42:56 
 	2 	 	Alex Reichmuth 	68 	OLG Basel 	45:30 
@@ -93,7 +93,7 @@ HAK  (10/10)     Stand von: 19:54
 
 
 
-HB  (4/4)        Stand von: 19:54           
+HB  (4/4)        Stand von: 20:29           
 
 	1 	 	Peter Lattmann 	64 	TV Seen 	41:19 
 	2 	 	Max Strini 	68 	OL Amriswil 	41:52 
@@ -102,7 +102,7 @@ HB  (4/4)        Stand von: 19:54
 
 
 
-H35  (2/2)       Stand von: 19:54           
+H35  (2/2)       Stand von: 20:29           
 
 	1 	 	Simon Isler 	88 	OL Amriswil 	1:04:23 
 
@@ -110,7 +110,7 @@ H35  (2/2)       Stand von: 19:54
 
 
 
-H40  (3/3)       Stand von: 19:54           
+H40  (3/3)       Stand von: 20:29           
 
 	1 	 	Reto Treier 	76 	bussola ok 	49:15 
 	2 	 	Pirmin Schneider 	84 	OL Regio Wil 	53:27 
@@ -118,7 +118,7 @@ H40  (3/3)       Stand von: 19:54
 
 
 
-H45  (6/6)       Stand von: 19:54           
+H45  (6/6)       Stand von: 20:29           
 
 	1 	 	Urs Müller 	76 	OL Amriswil 	36:50 
 	2 	 	Rolf Reubi 	76 	thurgorienta 	40:52 
@@ -129,7 +129,7 @@ H45  (6/6)       Stand von: 19:54
 
 
 
-H50  (3/3)       Stand von: 19:54           
+H50  (3/3)       Stand von: 20:29           
 
 	1 	 	Adrian Moser 	75 	thurgorienta 	42:57 
 	2 	 	Manfred Dörsing 	68 	OL Amriswil 	54:00 
@@ -137,7 +137,7 @@ H50  (3/3)       Stand von: 19:54
 
 
 
-H55  (16/16)     Stand von: 19:54           
+H55  (16/16)     Stand von: 20:29           
 
 	1 	 	Thomas Rusch 	68 	OL Regio Wil 	46:34 
 	2 	 	Christoph Hutzli 	66 	OL Regio Wil 	50:18 
@@ -158,7 +158,7 @@ H55  (16/16)     Stand von: 19:54
 
 
 
-H60  (16/18)     Stand von: 19:54           
+H60  (16/18)     Stand von: 20:29           
 
 	1 	 	Erwin Gartmann 	62 	OL Regio Wil 	40:06 
 	2 	 	Urban Schoch 	62 	thurgorienta 	44:34 
@@ -180,7 +180,7 @@ H60  (16/18)     Stand von: 19:54
 
 
 
-H65  (10/10)     Stand von: 19:54           
+H65  (10/10)     Stand von: 20:29           
 
 	1 	 	Bruno Brand 	55 	OLG Bern 	38:28 
 	2 	 	Peter Schoch 	56 	thurgorienta 	47:03 
@@ -196,7 +196,7 @@ H65  (10/10)     Stand von: 19:54
 
 
 
-H70  (12/12)     Stand von: 19:54           
+H70  (12/12)     Stand von: 20:29           
 
 	1 	 	Jean-Pierre Müller 	53 	OL Zimmerberg 	40:00 
 	2 	 	Walter Rahm 	48 	OLG Pfäffikon 	44:53 
@@ -213,7 +213,7 @@ H70  (12/12)     Stand von: 19:54
 
 
 
-H75  (6/6)       Stand von: 19:54           
+H75  (6/6)       Stand von: 20:29           
 
 	1 	 	Hans Thomann 	50 	thurgorienta 	44:34 
 	2 	 	Werner Keller 	46 	OLV Zug 	50:15 
@@ -224,7 +224,7 @@ H75  (6/6)       Stand von: 19:54
 
 
 
-H80  (8/8)       Stand von: 19:54           
+H80  (8/8)       Stand von: 20:29           
 
 	1 	 	Ernst Baumann 	45 	OL Regio Wil 	42:02 
 	2 	 	Walter Schnüriger 	45 	OLV Zug 	45:29 
@@ -237,7 +237,7 @@ H80  (8/8)       Stand von: 19:54
 
 
 
-D10  (4/5)       Stand von: 19:54           
+D10  (4/5)       Stand von: 20:29           
 
 	1 	 	Flurina Wittenberg 	15 	OL Regio Wil 	11:37 
 	2 	 	Malin Müller 	16 	OL Amriswil 	11:42 
@@ -246,7 +246,7 @@ D10  (4/5)       Stand von: 19:54
 
 
 
-D12  (14/14)     Stand von: 19:54           
+D12  (14/14)     Stand von: 20:29           
 
 	1 	 	Elina Bergamin 	13 	thurgorienta 	18:21 
 	2 	 	Anna-Lena Winteler 	14 	thurgorienta/OLG Welsikon 	19:44 
@@ -265,7 +265,7 @@ D12  (14/14)     Stand von: 19:54
 
 
 
-D14  (8/8)       Stand von: 19:54           
+D14  (8/8)       Stand von: 20:29           
 
 	1 	 	Sanna Böni 	12 	OLG St. Gallen/App. 	30:52 
 	2 	 	Niculina Reubi 	12 	thurgorienta 	31:24 
@@ -279,7 +279,7 @@ D14  (8/8)       Stand von: 19:54
 
 
 
-D16  (5/5)       Stand von: 19:54           
+D16  (5/5)       Stand von: 20:29           
 
 	1 	 	Analia Reubi 	09 	thurgorienta 	27:36 
 	2 	 	Sarah Tinner 	10 	thurgorienta 	31:04 
@@ -289,19 +289,19 @@ D16  (5/5)       Stand von: 19:54
 
 
 
-DAL  (1/1)       Stand von: 19:54           
+DAL  (1/1)       Stand von: 20:29           
 
 	1 	 	Dorottya Makovinyi 	98 	OLG St. Gallen/App. 	1:00:38 
 
 
 
-DAM  (1/1)       Stand von: 19:54           
+DAM  (1/1)       Stand von: 20:29           
 
 	1 	 	Brigitte Büchi 	98 	OLC Winterthur 	45:51 
 
 
 
-DAK  (12/12)     Stand von: 19:54           
+DAK  (12/12)     Stand von: 20:29           
 
 	1 	 	Antje Hugi Maier 	80 	OL Regio Wil 	41:55 
 	2 	 	Silvia Büchler 	69 	OLG St. Gallen/App. 	42:47 
@@ -319,7 +319,7 @@ DAK  (12/12)     Stand von: 19:54
 
 
 
-DB  (5/5)        Stand von: 19:54           
+DB  (5/5)        Stand von: 20:29           
 
 	1 	 	Tamara Spring 	85 	thurgorienta 	54:18 
 	2 	 	Iris Latscha 	77 	thurgorienta 	54:53 
@@ -329,20 +329,20 @@ DB  (5/5)        Stand von: 19:54
 
 
 
-D35  (1/1)       Stand von: 19:54           
+D35  (1/1)       Stand von: 20:29           
 
 	1 	 	Rahel Hälg-Talamona 	86 	OL Regio Wil 	1:04:33 
 
 
 
-D40  (2/2)       Stand von: 19:54           
+D40  (2/2)       Stand von: 20:29           
 
 	1 	 	Andrea Friedrich Winteler 	81 	OLG Welsikon/thurgorienta 	46:22 
 	2 	 	Ruth Burkhart 	82 	OL Regio Wil 	54:27 
 
 
 
-D45  (5/5)       Stand von: 19:54           
+D45  (5/5)       Stand von: 20:29           
 
 	1 	 	Petra Reubi 	79 	thurgorienta 	43:37 
 	2 	 	Rahel Vogel 	77 	OLG Schaffhausen 	50:20 
@@ -352,7 +352,7 @@ D45  (5/5)       Stand von: 19:54
 
 
 
-D50  (7/10)      Stand von: 19:54           
+D50  (7/10)      Stand von: 20:29           
 
 	1 	 	Andrea Good 	74 	thurgorienta 	31:41 
 	2 	 	Nathalie Berlinger 	71 	OL Regio Wil 	36:57 
@@ -364,7 +364,7 @@ D50  (7/10)      Stand von: 19:54
 
 
 
-D55  (7/7)       Stand von: 19:54           
+D55  (7/7)       Stand von: 20:29           
 
 	1 	 	Evi Schlatter 	67 	OLC Kapreolo 	40:54 
 	2 	 	Rita Deininger 	70 	OLG St. Gallen/App. 	45:03 
@@ -376,7 +376,7 @@ D55  (7/7)       Stand von: 19:54
 
 
 
-D60  (3/3)       Stand von: 19:54           
+D60  (3/3)       Stand von: 20:29           
 
 	1 	 	Susanne Wenk 	64 	thurgorienta 	38:59 
 	2 	 	Irene Büttiker 	63 	OLC Kapreolo / OLG Chur 	48:45 
@@ -384,7 +384,7 @@ D60  (3/3)       Stand von: 19:54
 
 
 
-D65  (3/3)       Stand von: 19:54           
+D65  (3/3)       Stand von: 20:29           
 
 	1 	 	Brigit Brand 	56 	OLG Bern 	39:41 
 	2 	 	Ursula Bindschädler 	57 	OLC Winterthur 	45:52 
@@ -392,13 +392,13 @@ D65  (3/3)       Stand von: 19:54
 
 
 
-D80  (1/1)       Stand von: 19:54           
+D80  (1/1)       Stand von: 20:29           
 
 	1 	 	Elsbeth Frei 	44 	OLC Winterthur 	1:20:50 
 
 
 
-OK  (14/14)      Stand von: 19:54           
+OK  (14/14)      Stand von: 20:29           
 
 	1 	 	Rolf Bollhalder 	56 	OLG St. Gallen/App. 	23:54 
 	2 	 	Christian Manser 	83 	OLG St. Gallen/App. 	28:11 
@@ -418,7 +418,7 @@ OK  (14/14)      Stand von: 19:54
 
 
 
-OM  (9/9)        Stand von: 19:54           
+OM  (9/9)        Stand von: 20:29           
 
 	1 	 	Barbara Baur 	75 	 	44:56 
 	2 	 	Jürg Morgenegg 	76 	- 	45:58 
@@ -432,7 +432,7 @@ OM  (9/9)        Stand von: 19:54
 
 
 
-OL  (7/7)        Stand von: 19:54           
+OL  (7/7)        Stand von: 20:29           
 
 	1 	 	Lorenz Elmiger 	89 	- 	42:40 
 	2 	 	Urs Eberhard 	68 	- 	49:28 
@@ -444,7 +444,7 @@ OL  (7/7)        Stand von: 19:54
 
 
 
-FAM  (22/22)     Stand von: 19:54           
+FAM  (22/22)     Stand von: 20:29           
 
 	1 	 	Ramon Rüesch 	12 	 	24:46 
 	2 	 	Konstantin Hofmeister 	77 	 	26:48 
@@ -472,7 +472,7 @@ FAM  (22/22)     Stand von: 19:54
 
 
 
-S+E  (1/1)       Stand von: 19:54           
+S+E  (1/1)       Stand von: 20:29           
 
 	 	 	Claudia Elsenhans 	78 	- 	Aufg 
 
